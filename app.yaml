@@ -1,0 +1,5 @@
+service: python37-test
+runtime: python37
+
+env_variables:
+  PATTERN: gs://
